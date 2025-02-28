@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/WONDERJAM/WonderJamW2025/WonderJamW2025/WJ_W2025/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/WONDERJAM/WonderJamW2025/WonderJamW2025/WJ_W2025/Content/Game/Levels/MainMenu.umap",
+				"D:/WONDERJAM/WonderJamW2025/WonderJamW2025/WJ_W2025/Content/Game/Levels/GameLevel.umap",
+				"D:/WONDERJAM/WonderJamW2025/WonderJamW2025/WJ_W2025/Content/Game/Character/BP_GameCharacter.uasset",
+				"D:/WONDERJAM/WonderJamW2025/WonderJamW2025/WJ_W2025/Content/Game/BP_GameMode.uasset",
+				"D:/WONDERJAM/WonderJamW2025/WonderJamW2025/WJ_W2025/Content/Game/GameSettings/BP_GameMode.uasset"
+			]
+		}
+	]
+}
