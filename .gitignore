@@ -67,7 +67,7 @@ Build/*/**
 WJ_W2025/Saved/*
 
 # Compiled source files for the engine to use
-Intermediate/*
+WJ_W2025/Intermediate/*
 WJ_W2025/Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
